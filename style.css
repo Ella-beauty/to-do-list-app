@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#task-input {
+    width: 50%;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#add-task-btn {
+    padding: 10px;
+}
+
+#task-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#task-list li {
+    margin-bottom: 10px;
+}
+
+#task-list li button {
+    margin-left: 10px;
+}
